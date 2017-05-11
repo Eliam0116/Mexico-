@@ -11,5 +11,6 @@ img{
         color: red;
 }
 body{
-  background-color: #42f4e8;
+      background-image: url("bandera.jpg");
+      background-color: #cccccc;
 }
