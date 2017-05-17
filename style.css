@@ -14,7 +14,7 @@ body{
       background-image: url("banderas.jpg");
       background-color: #cccccc;
 }
-ul{  font-size: 20px;
+li{  font-size: 20px;
       color: white;
 }
 p{
