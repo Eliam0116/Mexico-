@@ -21,3 +21,6 @@ p{
   font-size:30px;
   color: white;
 }
+*{
+  cursor: url('taco.png'), default;
+}
